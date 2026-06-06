@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 성취기준 분석기 (2022 개정)",
+  "description": "2022 개정 중등 교육과정(중·고등학교) 성취기준을 분석하여 지식·이해, 과정·기능, 가치·태도를 분해하고, 특히 기타 선택·융합·예체능 교과를 우대 분석하여 핵심 아이디어(Big Idea)를 제안합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
